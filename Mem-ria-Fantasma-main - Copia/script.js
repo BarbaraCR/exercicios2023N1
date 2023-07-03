@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'ghost2-removebg-preview copy.png'
+      img: 'ghost2-removebg-preview.png'
     },
     {
       name: '3',
