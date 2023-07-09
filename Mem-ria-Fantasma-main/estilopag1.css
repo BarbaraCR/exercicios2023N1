@@ -1,0 +1,69 @@
+#body1 {
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: #791f0391;
+}
+
+canvas {
+    margin: 0px;
+}
+
+#fantasma {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: 2px;
+    text-shadow: 0.1em 0.1em #6d2323
+}
+
+#h11 {
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin: -10px;
+}
+
+#h21 {
+    font-family: monospace;
+    font-size: 26px;
+    color: rgb(255, 255, 255);
+}
+
+#username1 {
+    margin: 2px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#password1 {
+    margin: 4px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+#ab {
+    background-color: rgb(216, 216, 216);
+    border-radius: 100px;
+    border-color: rgb(161, 58, 58);
+    margin: 2px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: rgb(219, 219, 219);
+    width: 70px;
+    border-radius: 30px;
+    border-color: rgb(161, 58, 58);
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
