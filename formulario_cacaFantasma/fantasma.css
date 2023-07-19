@@ -1,0 +1,51 @@
+body {
+    background-position: center;
+    background-size: cover;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+
+h1 {
+    font-family: 'Chiller', cursive;
+    text-shadow: 4px 4px 2px black;
+    color: rgb(77, 31, 31);
+    font-size: 70px;
+    font-weight: bold;
+}
+
+h3 {
+    color: white;
+}
+
+label {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-shadow: 4px 4px 2px black;
+}
+
+#nome {
+    color: rgb(65, 4, 4);
+    font-size: 30px;
+    font-weight: bolder;
+    text-shadow: 1px 1px 4px rgb(0, 0, 0);
+}
+
+#descricao {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#combate {
+    font-size: 27px;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
